@@ -2,8 +2,6 @@
 
 MinesweepAI is a sandbox environment for collaborating on the development of Minesweeper AI solutions.
 
-![Minesweeper Image](your-image-link-here.png)
-
 ## Installation
 
 Follow the instructions below to set up MinesweepAI in a virtual environment:
